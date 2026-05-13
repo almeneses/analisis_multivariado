@@ -1,3 +1,7 @@
 .codex
 desafio_1/archive.zip
 archive/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
